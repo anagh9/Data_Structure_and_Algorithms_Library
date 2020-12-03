@@ -1,5 +1,11 @@
 ## Data Structures and Algorithms for Online Programming Contest
 
+### Matrix
++ [Pascal Traingle](algorithms/PascalTraingle.cpp)
++ [Rotate Matrix](algorithms/RotateMatrix.cpp)
++ [Set Matrix Zeroes](algorithms/SetMatrixZeroes.cpp)
++ [Spriral Traversal of Array](algorithms/SpiralTraversal.cpp)
+
 ### Dynamic Programming
 + [Coin Change and variants](algorithms/coin_change.cpp)
 + [Knapsack Problem and variants](algorithms/knapsack.cpp)
